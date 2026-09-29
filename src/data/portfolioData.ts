@@ -4,7 +4,6 @@ export const PERSONAL_INFO = {
   name: 'Michael James Elijah',
   headline: 'Computer Science Student · Minor in Intelligent Systems',
   university: 'Bina Nusantara University',
-  semester: '4th Semester',
   highSchool: 'SMAK 4 Penabur Sunrise Garden',
   email: 'michelijah@gmail.com',
   phone: '+62 818-222-448',
@@ -15,7 +14,7 @@ export const PERSONAL_INFO = {
   positioning:
     'Computer Science student focused on Intelligent Systems with hands-on experience in Machine Learning, Computer Vision, Natural Language Processing, applied research, and software engineering, alongside active student leadership.',
   aboutBio:
-    'I am an undergraduate Computer Science student minoring in Intelligent Systems at Bina Nusantara University (4th semester). I build technical systems that solve practical problems—from computer vision safety pipelines at railway crossings and biological sequence tokenization research, to multi-model ensemble music predictors, real-time NLP moderation tools, and distributed offline-first applications. Beyond engineering, I actively serve as a Freshmen Leader and Freshmen Partner, mentoring peer cohorts and developing collaborative communication skills.',
+    'I am an undergraduate Computer Science student minoring in Intelligent Systems at Bina Nusantara University. I build technical systems that solve practical problems—from computer vision safety pipelines at railway crossings and biological sequence tokenization research, to multi-model ensemble music predictors, real-time NLP moderation tools, and distributed offline-first applications. Beyond engineering, I actively serve as a Freshmen Leader and Freshmen Partner, mentoring peer cohorts and developing collaborative communication skills.',
 };
 
 export const PROJECTS: Project[] = [
@@ -234,7 +233,7 @@ export const EDUCATION_ITEMS: EducationItem[] = [
     institution: 'Bina Nusantara University (BINUS)',
     degree: 'Undergraduate Computer Science',
     minor: 'Minor in Intelligent Systems',
-    status: 'Currently 4th Semester',
+    status: 'Currently Undergraduate Computer Science (2024-2028)',
     period: 'Undergraduate',
     description:
       'Pursuing Computer Science with specialization in Intelligent Systems. Actively studying core computing principles, machine learning paradigms, data structures, and computer vision while participating in student leadership and academic research.',
