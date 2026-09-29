@@ -21,7 +21,7 @@ export const About: React.FC = () => {
           {/* Narrative Column (7 cols) */}
           <div className="lg:col-span-7 space-y-5 text-sm sm:text-base text-slate-300 leading-relaxed">
             <p>
-              I am an undergraduate Computer Science student minoring in Intelligent Systems at Bina Nusantara University, currently in my 4th semester. My academic journey is centered around understanding computational models and turning theoretical concepts into dependable, usable software.
+              I am an undergraduate Computer Science student minoring in Intelligent Systems at Bina Nusantara University. My academic journey is centered around understanding computational models and turning theoretical concepts into dependable, usable software.
             </p>
             <p>
               Rather than viewing coursework in isolation, I develop practical experience by building end-to-end technical projects across Machine Learning, Computer Vision, Natural Language Processing, and applied research. Whether evaluating biological sequence tokenization for genomics or implementing multi-vote ensemble models for audio analytics, I focus on understanding why algorithms work and how they behave under real conditions.
